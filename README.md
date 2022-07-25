@@ -1,1 +1,1 @@
--> [Releases](./releases)
+-> [Releases](https://github.com/GNU-Pattor-Team/widevinedump/releases)
